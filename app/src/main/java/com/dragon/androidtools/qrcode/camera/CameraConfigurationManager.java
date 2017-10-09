@@ -18,7 +18,7 @@ import com.dragon.androidtools.qrcode.utils.CameraConfigurationUtils;
 import static java.lang.Boolean.FALSE;
 
 /**
- * Created by dragon on 2017/9/29 0029.
+ * Created by dragon on 2017/9/29 0029
  * 用来处理读取,解析从相机里获取的数据,以及设置相机的参数,和相机的硬件配置
  */
 @SuppressWarnings("deprecation")

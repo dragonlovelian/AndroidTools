@@ -21,7 +21,7 @@ import android.content.SharedPreferences;
 import com.dragon.androidtools.qrcode.activity.PreferencesActivity;
 
 /**
- * 用于设置闪光灯的关闭
+ *  用于设置闪光灯的关闭
  */
 public enum FrontLightMode {
 

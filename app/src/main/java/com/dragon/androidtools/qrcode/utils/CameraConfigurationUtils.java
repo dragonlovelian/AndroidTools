@@ -91,7 +91,7 @@ public class CameraConfigurationUtils {
             }
         }
     }
-
+ 
     public static void setBestExposure(Camera.Parameters parameters, boolean lightOn) {
         int minExposure = parameters.getMinExposureCompensation();
         int maxExposure = parameters.getMaxExposureCompensation();
